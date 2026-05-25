@@ -14,6 +14,13 @@ a simple messaging app
  string manipulation and methods and conditions
 
  ## Valid Message
+ 10 digit ID
+ must start with "+27"
+ message must not be greater than 250 chars
+
+ ## cell phone check
+ must start with +27
+ should be less than equal to 13
  
 
  
